@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Dynamic Form Builder
 
-# Run and deploy your AI Studio app
+A full-stack Dynamic Form Builder application that allows users to create, customize, share, and manage forms with real-time response collection and analytics.
 
-This contains everything you need to run your app locally.
+## Features
+- User Authentication
+- Dynamic Form Creation
+- Form Sharing
+- Response Dashboard
+- Analytics
 
-View your app in AI Studio: https://ai.studio/apps/f1378eef-b19e-4662-a1c4-349f8343903e
+## Tech Stack
+- React / Vite
+- TypeScript
+- Node.js
+- MongoDB
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Development
+This project was developed with the assistance of AI tools for rapid prototyping and implementation. The project was customized, tested, and deployed by me.

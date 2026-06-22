@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic Form Builder",
+  "description": "A full-featured dynamic form builder to build, customize, and share forms, and view response collection and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
